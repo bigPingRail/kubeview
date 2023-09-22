@@ -3,7 +3,7 @@
 # ==============================================================
 
 # If true the app will function in single namespace mode
-limitNamespace: false
+limitNamespace: true 
 
 # Networking - expose using an ingress
 # Note. If both ingress and loadbalancer are disabled, an internal ClusterIP service will be created
